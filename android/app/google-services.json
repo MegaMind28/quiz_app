@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865875431180",
+    "project_id": "isroquiz-2828f",
+    "storage_bucket": "isroquiz-2828f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865875431180:android:0b70da696a357658994329",
+        "android_client_info": {
+          "package_name": "com.example.isro_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865875431180-tvine57juo8cl5k7rc6gco3m8ne5jn35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.isro_quiz",
+            "certificate_hash": "ba60893072a1faf976949d4b402df06f80651238"
+          }
+        },
+        {
+          "client_id": "865875431180-4297cmbig7dvgnr7966jfuq81hp2njha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-bk_U1RtO_y6kzbaIrNJdtg4lMUebDJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865875431180-4297cmbig7dvgnr7966jfuq81hp2njha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
